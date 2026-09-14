@@ -2,9 +2,10 @@
 
 int main(void)
 {
-	printf("Hello, world!\n");
+	printf("Hello, Vova!\n");
 	printf("goodbye, world!\n");
-	
 	return 0;
+
+
 }
 
